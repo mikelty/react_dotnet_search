@@ -6,7 +6,7 @@ a search bar using react on top of .net core 3
 - get .net Core 3.1 at https://dotnet.microsoft.com/download/dotnet-core/3.1
 - clone this repo
 - change the Server string inside Appsettings.json (under "ConnectionStrings": "DefaultConnection":) to your server name for your own Microsoft SQL Server version and save the file. (Currently it's DESKTOP-RNLOB2T)
-- open the searchbar application, go to localhost:5000
+- do not close the terminal window, open the searchbar application, and go to localhost:5000
 # to test
 - download python3 and pip
 - ```pip install -U selenium```
