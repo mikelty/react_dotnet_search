@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1746923c-d492-4edc-9117-fc71340bff93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/precache-manifest.9df01679f6f7581851fe4b1fef02faff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/precache-manifest.c5462e1ea803b59fa1976589734a86e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/css/main.103200b5.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/css/main.103200b5.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/css/main.f1cc3ebb.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/css/main.f1cc3ebb.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/js/main.885e99aa.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/js/main.885e99aa.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/js/main.ff084133.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClientApp/build/static/js/main.ff084133.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClientApp/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientApp/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClientApp/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientApp/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClientApp/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ClientApp/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searchbar.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../searchbar.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searchbar.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../searchbar.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searchbar.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../searchbar.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../searchbar.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../searchbar.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Zv8P5vnjjHZBpDa8PZCBilToel" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="search_bar_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1746923c-d492-4edc-9117-fc71340bff93" name="Default Changelist" comment="" />
+      <created>1585708179848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585708179848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="294" key="FileChooserDialogImpl" timestamp="1585708266352">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="770" y="294" key="FileChooserDialogImpl/63.0.1857.1080@63.0.1857.1080" timestamp="1585708266352" />
+    <state width="1836" height="295" key="GridCell.Tab.0.bottom" timestamp="1585708435576">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.bottom/63.0.1857.1080@63.0.1857.1080" timestamp="1585708435576" />
+    <state width="1836" height="295" key="GridCell.Tab.0.center" timestamp="1585708435576">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.center/63.0.1857.1080@63.0.1857.1080" timestamp="1585708435576" />
+    <state width="1836" height="295" key="GridCell.Tab.0.left" timestamp="1585708435575">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.left/63.0.1857.1080@63.0.1857.1080" timestamp="1585708435575" />
+    <state width="1836" height="295" key="GridCell.Tab.0.right" timestamp="1585708435576">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.right/63.0.1857.1080@63.0.1857.1080" timestamp="1585708435576" />
+    <state x="492" y="182" key="SettingsEditor" timestamp="1585708342150">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="492" y="182" key="SettingsEditor/63.0.1857.1080@63.0.1857.1080" timestamp="1585708342150" />
+    <state x="688" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585708182958">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="688" y="363" key="com.intellij.ide.util.TipDialog/63.0.1857.1080@63.0.1857.1080" timestamp="1585708182958" />
+  </component>
+</project>
